@@ -1,0 +1,103 @@
+commit c02df9037706f5085bc56573caae94a16a635a38
+Author: rohitha-03 <rohitha.male1@gmail.com>
+Date:   Sun Mar 10 11:40:50 2024 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..4f17965
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 SDE
+\ No newline at end of file
+
+commit 592fdf525918085870150bb67bfa58bf2564cf6e
+Author: rohitha-03 <rohitha.male1@gmail.com>
+Date:   Sun Mar 10 11:33:56 2024 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 65c50f5..2fe3625 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,3 @@
+ M.Rohitha CSE
+-srinivasa pushpa
+\ No newline at end of file
++srinivasa pushpa
++Green
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 4f17965..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2026 SDE
+\ No newline at end of file
+
+commit 785fe0a37e9d19a4a4ebbbb0a9184a5333f17228
+Author: rohitha-03 <rohitha.male1@gmail.com>
+Date:   Sun Mar 10 11:29:33 2024 +0530
+
+    has my year and job
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..4f17965
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 SDE
+\ No newline at end of file
+
+commit 63b263266926eab9fedc0836c820ad9ee228b9bd
+Author: rohitha-03 <rohitha.male1@gmail.com>
+Date:   Sun Mar 10 11:14:32 2024 +0530
+
+    added favourite restaurantand movie
+
+diff --git a/file1.txt b/file1.txt
+index 60b7d25..65c50f5 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-M.Rohitha CSE
+\ No newline at end of file
++M.Rohitha CSE
++srinivasa pushpa
+\ No newline at end of file
+
+commit b0fae7940877303db208875d89692fd38f75fb2d
+Author: rohitha-03 <rohitha.male1@gmail.com>
+Date:   Sun Mar 10 11:12:27 2024 +0530
+
+    now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 61d3358..60b7d25 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-M.Rohitha 29125
+\ No newline at end of file
++M.Rohitha CSE
+\ No newline at end of file
+
+commit a89d22f616a19f2ec796ab0370ab42f666273d03
+Author: rohitha-03 <rohitha.male1@gmail.com>
+Date:   Sun Mar 10 11:09:36 2024 +0530
+
+    committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..61d3358
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++M.Rohitha 29125
+\ No newline at end of file
